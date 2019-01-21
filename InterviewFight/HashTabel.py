@@ -29,7 +29,6 @@ class Hash:
 
             head = head.next
 
-
     def get(self, value):
 
         c = 0
@@ -63,3 +62,4 @@ t.insert(10)
 t.insert(15)
 t.addKey(1)
 print(t.get(10))
+t.addValue(2)
