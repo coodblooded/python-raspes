@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c518f282-ecf8-4e42-9889-44faf972e7c5" name="Default Changelist" comment="" />
+    <list default="true" id="c518f282-ecf8-4e42-9889-44faf972e7c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-raspes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewFight/HashTabel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/.idea/ObserverPatterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/Kpis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/currentkpis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/forecastkpis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/observer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/observer/observer_abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/Observer/observer/subject_abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/beforeobserver/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/beforeobserver/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPatterns/observer/beforeobserver/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythongit/Crowdstrike.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythongit/requirement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythongit/scraped.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/before_strategy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/before_strategy/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/before_strategy/shipper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/before_strategy/shipping_cost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/before_strategy/strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/strategy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/strategy/fedex_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/strategy/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/strategy/postal_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/strategy/shipping_cost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/strategy/srategy_abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StrategyDesignPattern/strategy/ups_strategy.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,16 +55,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heap_sort.py">
+        <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+              <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mearge_sort.py">
+        <entry file="file://$PROJECT_DIR$/algorithms/mearge_sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
@@ -41,6 +81,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -49,12 +92,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-30" />
     <option name="y" value="47" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -154,12 +198,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550661811151</updated>
-      <workItem from="1550661833244" duration="4298000" />
+      <workItem from="1550661833244" duration="4577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4298000" />
+    <option name="totallyTimeSpent" value="4577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -191,14 +235,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/heap_sort.py">
+    <entry file="file://$PROJECT_DIR$/algorithms/heap_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mearge_sort.py">
+    <entry file="file://$PROJECT_DIR$/algorithms/mearge_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
